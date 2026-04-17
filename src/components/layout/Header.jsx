@@ -1,4 +1,5 @@
 "use client";
+import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
@@ -37,7 +38,7 @@ const Header = () => {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <div className="flex-shrink-0">
-  <Link href="/" className="block"> {/* block ব্যবহার করা হয়েছে যাতে পুরো ইমেজটা ক্লিকেবল হয় */}
+  <Link href="/" className="block"> 
     <Image 
       src="https://i.ibb.co/Tx7VJhgc/logo.png"
       alt="KeenKeeper Logo" 

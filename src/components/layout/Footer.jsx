@@ -46,13 +46,12 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* Divider Line */}
         <div className="border-t border-gray-600/50 pt-8 flex flex-col md:flex-row justify-between items-center text-xs md:text-sm text-gray-300 gap-4">
           <p>© 2026 KeenKeeper. All rights reserved.</p>
           <div className="flex gap-6">
-            <Link href="/privacy-policy" className="hover:text-white">Privacy Policy</Link>
-            <Link href="/terms-of-service" className="hover:text-white">Terms of Service</Link>
-            <Link href="/cookies" className="hover:text-white">Cookies</Link>
+            <Link href="/" className="hover:text-white">Privacy Policy</Link>
+            <Link href="/" className="hover:text-white">Terms of Service</Link>
+            <Link href="/" className="hover:text-white">Cookies</Link>
           </div>
         </div>
       </div>
