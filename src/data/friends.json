@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Arif Rahman",
+    "picture": "https://i.ibb.co/KcrN9qY0/pexels-niloy007-32191522.jpg",
+    "email": "arif.rahman@email.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+    "tags": ["College", "Best Friend"],
+    "bio": "Varsity-r din gulo khub mone pore. Arif er sathe adda maneo onno kisu.",
+    "goal": 14,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Islam",
+    "picture": "https://i.ibb.co/27CLbNdg/pexels-pavel-danilyuk-8640281.jpg",
+    "email": "sarah.islam@email.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["Work", "Designer"],
+    "bio": "Sarah amar office colleague, kintu tar sathe tech niye prochur kotha hoy.",
+    "goal": 7,
+    "next_due_date": "2025-07-22"
+  },
+  {
+    "id": 3,
+    "name": "Tanvir Ahmed",
+    "picture": "https://i.ibb.co/8gNVHRwy/pexels-tuhin-afridi-422917312-34454271.jpg",
+    "email": "tanvir.dev@email.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["University", "Tech"],
+    "bio": "Tanvir ekjon darun programmer. Amra aksathe onek open source project-e kaj korchi.",
+    "goal": 14,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 4,
+    "name": "Nadia Sultana",
+    "picture": "https://i.ibb.co/TDWDzm1S/pexels-rizky-motion-2159387361-36030999.jpg",
+    "email": "nadia.s@email.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["School", "Old Friend"],
+    "bio": "School-er bondhu, kintu onno deshe thakar karone ekhon ar kothai hoy na.",
+    "goal": 30,
+    "next_due_date": "2025-06-10"
+  },
+  {
+    "id": 5,
+    "name": "Mehedi Hasan",
+    "picture": "https://i.ibb.co/7x4WtxgY/pexels-salilkhaliq-5053944.jpg",
+    "email": "mehedi.h@email.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["Gym", "Neighborhood"],
+    "bio": "Amar gym partner. Fitness niye amader protidin-ei kichu na kichu kotha hoy.",
+    "goal": 7,
+    "next_due_date": "2025-07-25"
+  },
+  {
+    "id": 6,
+    "name": "Sabbir Hossain",
+    "picture": "https://i.ibb.co/nqwzdpR8/pexels-abhishek-mishra-277771722-32218638.jpg",
+    "email": "sabbir.h@email.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["Music", "Close Friend"],
+    "bio": "Amader band-er lead guitarist. Gaan niye amader bondhutto onek purono.",
+    "goal": 15,
+    "next_due_date": "2025-07-18"
+  },
+  {
+    "id": 7,
+    "name": "Rifat Chowdhury",
+    "picture": "https://i.ibb.co/SDfmL6pj/pexels-niloy007-30476122.jpg",
+    "email": "rifat.c@email.com",
+    "days_since_contact": 1,
+    "status": "on-track",
+    "tags": ["Freelance", "Client"],
+    "bio": "Rifat bhai-er sathe freelancing project niye pray-ei kotha hoy, onar kajer dharon darun.",
+    "goal": 3,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 8,
+    "name": "Afroza Akter",
+    "picture": "https://i.ibb.co/bRsRs8Ly/pexels-egamorganstanza-34474170.jpg",
+    "email": "afroza.a@email.com",
+    "days_since_contact": 28,
+    "status": "overdue",
+    "tags": ["Travel", "Blogger"],
+    "bio": "Sajek tour-e dekha hoyechilo Afroza-r sathe, khub-i bhalo traveler.",
+    "goal": 21,
+    "next_due_date": "2025-07-05"
+  }
+]
