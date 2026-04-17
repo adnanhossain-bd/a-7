@@ -37,10 +37,17 @@ const Header = () => {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <Link href="/" className="text-2xl font-bold text-[#1a2e35]">
-              Keen<span className="text-[#264D3E]">Keeper</span>
-            </Link>
-          </div>
+  <Link href="/" className="block"> {/* block ব্যবহার করা হয়েছে যাতে পুরো ইমেজটা ক্লিকেবল হয় */}
+    <Image 
+      src="https://i.ibb.co/Tx7VJhgc/logo.png"
+      alt="KeenKeeper Logo" 
+      width={150}  
+      height={40}  
+      priority    
+      className="object-contain" 
+    />
+  </Link>
+</div>
 
           {/* Desktop Menu */}
           <div className="hidden md:flex space-x-4">
