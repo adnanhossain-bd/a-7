@@ -3,7 +3,7 @@ import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import { TimelineProvider } from "@/context/TimelineContext";
-// নিশ্চিত করুন যে components/Navbar.jsx ফাইলটি তৈরি করেছেন
+
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
