@@ -10,7 +10,6 @@ const nextConfig = {
       },
     ],
   },
-  /* আপনার অন্য কোনো কনফিগ অপশন থাকলে এখানে থাকবে */
 };
 
 export default nextConfig;

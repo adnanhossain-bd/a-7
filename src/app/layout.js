@@ -29,10 +29,10 @@ export default function RootLayout({ children }) {
       <body className="min-h-full flex flex-col">
 
         <TimelineProvider>
-        {/* ন্যাভবারটি এখানে থাকবে যাতে সব পেজে এটি দেখা যায় */}
+    
         <Header></Header>
 
-        {/* main ট্যাগে flex-grow দেওয়া হয়েছে যাতে কন্টেন্ট কম থাকলেও ফুটার নিচে থাকে */}
+       
         <main className="flex-grow">
           {children}
         </main>
@@ -40,7 +40,6 @@ export default function RootLayout({ children }) {
         <Footer></Footer>
         </TimelineProvider>
 
-        {/* যখন ফুটার বানাবেন, তখন এখানে ফুটার কম্পোনেন্টটি বসাবেন */}
       </body>
     </html>
   );

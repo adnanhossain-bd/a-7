@@ -10,7 +10,6 @@ export default function NotFound() {
             404
           </h1>
           
-          {/* Main Content Overlaid */}
           <div className="absolute inset-0 flex flex-col items-center justify-center mt-10">
             <h2 className="text-3xl font-bold text-gray-900 sm:text-5xl tracking-tight">
               Page Not Found
@@ -21,7 +20,6 @@ export default function NotFound() {
           </div>
         </div>
 
-        {/* Action Buttons */}
         <div className="mt-12 flex flex-col sm:flex-row items-center justify-center gap-4">
           <Link
             href="/"
@@ -33,7 +31,6 @@ export default function NotFound() {
          
         </div>
 
-        {/* Small Footer Detail */}
         <p className="mt-16 text-sm text-gray-400">
           Error Code: <span className="font-mono">ERR_PAGE_NOT_FOUND</span>
         </p>

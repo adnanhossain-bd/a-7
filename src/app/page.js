@@ -31,7 +31,6 @@ export default function Home() {
       <Banner />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-8">
-        {/* Summary Cards */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-16">
           {[
             { label: "Total Friends", value: friends.length },
@@ -46,7 +45,6 @@ export default function Home() {
           ))}
         </div>
 
-        {/* Friends Grid */}
         <h2 className="text-2xl font-bold text-[#1a2e35] mb-8">Your Friends</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
           {friends.map(friend => (
