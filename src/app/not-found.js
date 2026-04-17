@@ -30,12 +30,7 @@ export default function NotFound() {
             Back to Home
           </Link>
           
-          <Link
-            href="/contact"
-            className="w-full sm:w-auto px-8 py-3.5 border-2 border-gray-200 text-gray-600 font-semibold rounded-xl hover:bg-gray-50 hover:border-gray-300 transition-all duration-300"
-          >
-            Contact Support
-          </Link>
+         
         </div>
 
         {/* Small Footer Detail */}
